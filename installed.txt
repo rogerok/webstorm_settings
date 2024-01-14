@@ -1,0 +1,6 @@
+com.tabnine.TabNine
+org.intellij.prisma
+com.chrisrm.idea.MaterialThemeUI
+dev.nx.console
+com.mallowigi
+izhangzhihao.rainbow.brackets
